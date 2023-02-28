@@ -8,7 +8,7 @@ headers = {
   'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.119 Safari/537.36',
   'content-type': 'application/json'
 }
-amouunt = 20
+amount = 20
 name = ''
 forum_id = ''
 
